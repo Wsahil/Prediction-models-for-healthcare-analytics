@@ -17,6 +17,7 @@ https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset/data
 ## Project Implementation
 
 1. **Exploratory Data Analysis (EDA)**: Performed detailed EDA using Seaborn, Matplotlib, and Z-score analysis to reveal patterns, correlations, and identify outliers. Key findings included the influence of age, gender, and health metrics like hemoglobin on smoking and drinking habits.
+
 ![image](https://github.com/Wsahil/Prediction-models-for-healthcare-analytics/assets/71370836/d1e06efc-2f97-44bd-beca-bc23c7c6e19e) ![image](https://github.com/Wsahil/Prediction-models-for-healthcare-analytics/assets/71370836/25bcbc3c-e710-46e3-9067-558baa0927cf)
 
 ![image](https://github.com/Wsahil/Prediction-models-for-healthcare-analytics/assets/71370836/216a23c2-5fda-43d4-a7a1-436b870ea4cc) ![image](https://github.com/Wsahil/Prediction-models-for-healthcare-analytics/assets/71370836/69a07a57-a1fd-4a8d-ab50-ed2172945f83)
